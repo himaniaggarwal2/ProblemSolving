@@ -1,7 +1,7 @@
 // https://www.interviewcake.com/question/cpp/permutation-palindrome?course=fc1&section=hashing-and-hash-tables
 
 // Write an efficient function that checks whether any 
-// permutation ↴ of an input string is a palindrome. 
+// permutation of an input string is a palindrome. 
 
 #include <iostream>
 #include <bits/stdc++.h>
