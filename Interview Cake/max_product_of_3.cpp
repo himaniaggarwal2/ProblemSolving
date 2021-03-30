@@ -8,7 +8,7 @@
 #include "lest.hpp"
 
 using namespace std;
-
+//Examples: -100 -10 1 2 3 4 5 6
 int highestProductOf3(const vector<int>& vec)
 {
     // calculate the highest product of three numbers
